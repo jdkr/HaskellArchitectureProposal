@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="HaskellArchitectureProposal.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.2913528"
+     inkscape:cx="441.78477"
+     inkscape:cy="405.77602"
+     inkscape:window-width="2560"
+     inkscape:window-height="1416"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1416">
+      <circle
+         style="fill:#abc837;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         id="path1173"
+         cx="100"
+         cy="100"
+         r="90" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.7625px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;font-variant-ligatures:no-contextual;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="88.681534"
+         y="24.197847"
+         id="text1177"><tspan
+           sodipodi:role="line"
+           id="tspan1175"
+           style="font-size:4.7625px;writing-mode:lr-tb;direction:ltr;stroke-width:0.264583"
+           x="88.681534"
+           y="24.197847">community</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4.7625px;writing-mode:lr-tb;direction:ltr;stroke-width:0.264583"
+           x="88.681534"
+           y="30.150972"
+           id="tspan1179">libraries</tspan></text>
+      <g
+         id="g1389"
+         transform="translate(-5,-48.5)">
+        <ellipse
+           style="fill:#ffdd55;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+           id="path1165"
+           cx="105"
+           cy="148.5"
+           rx="59.476517"
+           ry="59.476513" />
+        <ellipse
+           style="fill:#ff6600;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+           id="path61"
+           cx="105"
+           cy="148.5"
+           rx="24.999998"
+           ry="25" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.7625px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;font-variant-ligatures:no-contextual;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="79.345497"
+           y="141.39633"
+           id="text325"><tspan
+             sodipodi:role="line"
+             id="tspan323"
+             style="font-size:4.7625px;stroke-width:0.264583"
+             x="79.345497"
+             y="141.39633">   base library</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.7625px;stroke-width:0.264583"
+             x="79.345497"
+             y="147.34946"
+             id="tspan1648">        -</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.7625px;stroke-width:0.264583"
+             x="79.345497"
+             y="153.30258"
+             id="tspan377"> Haskell language</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.7625px;stroke-width:0.264583"
+             x="79.345497"
+             y="159.25571"
+             id="tspan1652">     standard</tspan></text>
+        <ellipse
+           style="fill:#ffdd55;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+           id="path485"
+           cx="138.31133"
+           cy="119.32242"
+           rx="11.243439"
+           ry="11.154192" />
+        <ellipse
+           style="fill:#ffdd55;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+           id="path485-3"
+           cx="146.67111"
+           cy="155.83246"
+           rx="11.243439"
+           ry="11.154192" />
+        <ellipse
+           style="fill:#ffdd55;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+           id="path485-3-6"
+           cx="124.61163"
+           cy="186.73441"
+           rx="11.243439"
+           ry="11.154192" />
+        <ellipse
+           style="fill:#ffdd55;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+           id="path485-3-7"
+           cx="63.869225"
+           cy="150.63356"
+           rx="11.243439"
+           ry="11.154192" />
+        <ellipse
+           style="fill:#ffdd55;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+           id="path485-3-5"
+           cx="74.955811"
+           cy="118.69987"
+           rx="11.243439"
+           ry="11.154192" />
+        <ellipse
+           style="fill:#ffdd55;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+           id="path485-3-3"
+           cx="81.523735"
+           cy="183.03752"
+           rx="11.243439"
+           ry="11.154192" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.7625px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack;font-variant-ligatures:no-contextual;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="95.508591"
+           y="104.71925"
+           id="text1169"><tspan
+             sodipodi:role="line"
+             id="tspan1167"
+             style="font-size:4.7625px;stroke-width:0.264583"
+             x="95.508591"
+             y="104.71925">core </tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.7625px;stroke-width:0.264583"
+             x="95.508591"
+             y="110.67238"
+             id="tspan1171">libraries</tspan></text>
+        <path
+           style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 130.29598,127.25347 -6.02072,4.98838"
+           id="path1226"
+           inkscape:connector-type="polyline"
+           inkscape:connector-curvature="0" />
+        <path
+           style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 129.42233,153.44178 5.95705,1.46256"
+           id="path1250"
+           inkscape:connector-type="polyline"
+           inkscape:connector-curvature="0" />
+        <path
+           style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 116.03177,170.82571 3.43171,6.17158"
+           id="path1317"
+           inkscape:connector-type="polyline"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 89.976665,168.73826 -3.157691,4.67137"
+           id="path1319"
+           inkscape:connector-type="polyline"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 79.853855,150.25319 -4.922189,-0.025"
+           id="path1321"
+           inkscape:connector-type="polyline"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 87.558683,130.69798 -4.890899,-4.01152"
+           id="path1323"
+           inkscape:connector-type="polyline"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>
