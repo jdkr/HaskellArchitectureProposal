@@ -32,7 +32,7 @@ One of Haskell's concepts are pure functions. So why not have something like a p
 <h3>What would be the attributes of base?</h3>
 <ul>
 <li> Base would be the library where the formal language specifications are implemented.</li>
-<li> It consists of the common sense basis of Haskell.</li>
+<li> It consists of the generally accepted principles of Haskell.</li>
 <li> The most useful language extensions could be integrated in base.</li>
 <li> There shouldn't be fundamental breaking changes from the existing standard. Especially basic datastructures like <b>String</b> and <b>List</b> shouldn't be removed.</li>
 <li> Primitive data types are included in base.</li>
